@@ -1,3 +1,3 @@
 # IS-Road
-open code
-Waiting for the paper to be accepted.
+open code for IS-RoadDet
+This project is based on mmdetection.
