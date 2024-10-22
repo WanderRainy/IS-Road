@@ -13,7 +13,9 @@ data/prepare_data/prepare_data/shapes_to_coco.py #道路实例掩膜转化为coc
 ```python
 /data1/yry22/Vector/IS-RoadDet/mmdetection/data/prepare_data/prepare_data/pointmask_maker.py
 ```
-准备好的数据级上传到链接---waiting
+准备好的数据集【百度网盘，
+链接：https://pan.baidu.com/s/1b9TDG6K5fRKD1kzUfIbVVQ?pwd=g881 
+提取码：g881】
 
 ## 模型训练
 mmdetection框架中的训练，分别检查配置文件中数据集路径即可。
