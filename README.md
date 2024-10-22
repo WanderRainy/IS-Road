@@ -1,5 +1,5 @@
 # IS-Road
-open code for IS-RoadDet
+open code for “IS-RoadDet: Road Vector Graph Detection with Intersections and Road Segments from High Resolution Remote Sensing Imagery”
 
 This project is based on mmdetection.
 ## 数据集准备
