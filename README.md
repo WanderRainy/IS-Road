@@ -41,7 +41,7 @@ tools_road
 # Thanks
 RNGDet,Sat2Graph
 ## 版权所有
-本方法版权归智能化遥感数据提取分析与应用研究组（RSIDEA：http://rsidea.whu.edu.cn/）所有，该研究组隶属于武汉大学测绘遥感信息工程国家重点实验室（LIESMARS）。IS-RoadDet仅限于学术目的使用，并需引用以下论文，任何商业用途均被禁止。
+本方法版权归智能化遥感数据提取分析与应用研究组（RSIDEA：http://rsidea.whu.edu.cn/ ）所有，该研究组隶属于武汉大学测绘遥感信息工程国家重点实验室（LIESMARS）。IS-RoadDet仅限于学术目的使用，并需引用以下论文，任何商业用途均被禁止。
 
 R. Yang, Y. Zhong, Y. Liu, D. Chen and Y. Pan, "IS-RoadDet: Road Vector Graph Detection with Intersections and Road Segments from High Resolution Remote Sensing Imagery," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3483113.
 
