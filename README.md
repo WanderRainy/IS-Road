@@ -1,6 +1,8 @@
 # IS-Road
 open code for “IS-RoadDet: Road Vector Graph Detection with Intersections and Road Segments from High Resolution Remote Sensing Imagery”
 
+paper home: http://rsidea.whu.edu.cn/is-road.htm
+
 This project is based on mmdetection.
 ## 数据集准备
 模型需要实例级的道路标注，因此需要从开源数据集（SpaceNet和cityscale都提供的是linestring）转化为coco格式的道路实例标注。
