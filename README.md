@@ -35,6 +35,7 @@ python tools/test.py configs/***.py work_dirs/exp/epoch_24.pth --work-dir work_d
 ```python
 ics/point_segment2graph_v5.py
 ```
+我们提供了ICS的输入和输出（最终的结果）【百度网盘，链接：https://pan.baidu.com/s/1WDDsciJRZysUho_aN5o6cw?pwd=bh4c 提取码: bh4c】
 
 ## 本项目中一些分析脚本及评估代码
 ```python
